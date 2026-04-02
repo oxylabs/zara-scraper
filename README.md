@@ -55,4 +55,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Zara Scraper, you can seamlessly gather data exclusive to Zara web pages. Take hold of crucial fashion detail, including clothing prices, user reviews, and garment descriptions, to evaluate the fashion market and stay on top of your competition. For any queries or troubleshooting guidance, feel free to connect with our support team through live chat or drop us an email at hello@oxylabs.io.
+With our Zara Scraper, you can seamlessly gather data exclusive to Zara web pages. Take hold of crucial fashion detail, including clothing prices, user reviews, and garment descriptions, to evaluate the fashion market and stay on top of your competition. For any queries or troubleshooting guidance, feel free to connect with our support team through live chat or drop us an email at support@oxylabs.io.
