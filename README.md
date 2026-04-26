@@ -5,7 +5,9 @@
 
 [![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
-Oxylabs’ [Zara Scraper](https://oxylabs.io/products/scraper-api/ecommerce/zara?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Zara website effortlessly. This brief guide explains how an Zara Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs [Zara Scraper](https://oxylabs.io/products/scraper-api/ecommerce/zara?utm_source=github&utm_medium=repositories&utm_campaign=product) (part of the Web Scraper API) is a real-time data gathering solution that uses a fast-adapting infrastructure for effortless Zara product data extraction. It combines **automated proxy management, unblocking, and parsing** to collect structured data from any public website at scale.. 
+
+This brief guide explains how an Zara Scraper works and provides code examples to get started rigth away.
 
 ### How it works
 
