@@ -1,6 +1,6 @@
 # Zara Scraper API
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=zara-scraper-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=zara-scraper&utm_campaign=banner&groupid=877)
 
 
 <p align="left">
@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
 </p>
 
-Oxylabs [Zara Scraper](https://oxylabs.io/products/scraper-api/ecommerce/zara?utm_source=github&utm_medium=repositories&utm_campaign=product) (part of the Web Scraper API) is a real-time data gathering solution that uses a fast-adapting infrastructure for effortless Zara product data extraction. It combines **automated proxy management, web data access, and parsing** to collect structured data from any public website at scale.. 
+Oxylabs [Zara Scraper](https://oxylabs.io/products/scraper-api/ecommerce/zara?utm_source=github&utm_medium=referral&utm_content=zara-scraper&groupid=877) (part of the Web Scraper API) is a real-time data gathering solution that uses a fast-adapting infrastructure for effortless Zara product data extraction. It combines **automated proxy management, web data access, and parsing** to collect structured data from any public website at scale.. 
 
 This brief guide explains how an Zara Scraper works and provides code examples to get started rigth away.
 
